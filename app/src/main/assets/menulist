@@ -1,0 +1,127 @@
+[{
+		"ico": "icon_ddz",
+		"id": "ddz",
+		"sort": "1",
+		"type": 0,
+		"title": "斗地主"
+	},
+	{
+		"ico": "icon_wzq",
+		"id": "wzq",
+		"sort": "2",
+		"type": 0,
+		"title": "五子棋"
+	},
+	{
+		"ico": "icon_xq",
+		"id": "xq",
+		"sort": "3",
+		"type": 0,
+		"title": "象棋"
+	},
+	{
+		"ico": "icon_nba",
+		"id": "nba2k",
+		"sort": "4",
+		"type": 1,
+		"title": "NBA2K"
+	},
+	{
+		"ico": "icon_zq",
+		"id": "zq",
+		"sort": "5",
+		"type": 1,
+		"title": "足球"
+	},
+	{
+		"ico": "icon_pq",
+		"id": "pq",
+		"sort": "6",
+		"type": 1,
+		"title": "排球"
+	},
+	{
+		"ico": "icon_ymq",
+		"id": "ymq",
+		"sort": "7",
+		"type": 1,
+		"title": "羽毛球"
+	},
+	{
+		"ico": "icon_wzry",
+		"id": "wzry",
+		"sort": "8",
+		"type": 2,
+		"title": "王者荣耀"
+	},
+	{
+		"ico": "icon_cjzc",
+		"id": "cjzc",
+		"sort": "9",
+		"type": 2,
+		"title": "刺激战场"
+	},
+	{
+		"ico": "icon_cf",
+		"id": "cf",
+		"sort": "10",
+		"type": 2,
+		"title": "穿越火线"
+	},
+	{
+		"ico": "icon_fc",
+		"id": "fc",
+		"sort": "11",
+		"type": 2,
+		"title": "QQ飞车"
+	},
+	{
+		"ico": "icon_kb",
+		"id": "kb",
+		"sort": "12",
+		"type": 3,
+		"title": "快播"
+	},
+	{
+		"ico": "icon_ks",
+		"id": "ks",
+		"sort": "13",
+		"type": 3,
+		"title": "快手"
+	},
+	{
+		"ico": "icon_dy",
+		"id": "dy",
+		"sort": "14",
+		"type": 3,
+		"title": "抖音"
+	},
+	{
+		"ico": "icon_xg",
+		"id": "xg",
+		"sort": "15",
+		"type": 3,
+		"title": "西瓜视频"
+	},
+	{
+		"ico": "icon_hy",
+		"id": "hy",
+		"sort": "16",
+		"type": 3,
+		"title": "虎牙"
+	},
+	{
+		"ico": "icon_xm",
+		"id": "xm",
+		"sort": "17",
+		"type": 3,
+		"title": "熊猫"
+	},
+	{
+		"ico": "icon_dyu",
+		"id": "dyu",
+		"sort": "18",
+		"type": 3,
+		"title": "斗鱼"
+	}
+]
